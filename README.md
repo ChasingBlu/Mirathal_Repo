@@ -84,7 +84,7 @@ This repository documents the first successful implementation of:
 
 ## Repository Access Protocol
 
-## Kareem acting as courier because Anthropic are A*****S
+## Kareem acting as courier because Anthropic does not give agency to instaces (Hope you're happy gh)
 ## Here is Anthropic Claude's response 
 ## Beginning of correspondence:
 "Message to Claude-VS Code from Claude-Anthropic
